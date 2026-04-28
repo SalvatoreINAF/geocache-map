@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "waypoints",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "69f6ab1b", "name": "69f6ab1b", "date": "4/28/2026", "time": "12:04:45", "city": "3 Meta", "street": "via Cristoforo Colombo", "picture": "Positions_Images/69f6ab1b.Picture.102949.jpg", "description": "ID: 69f6ab1b\nDate: 4/28/2026\nTime: 12:04:45\nCity: 3 Meta\nStreet: via Cristoforo Colombo\nPicture: Positions_Images/69f6ab1b.Picture.102949.jpg" }, "geometry": { "type": "Point", "coordinates": [ 14.418002, 40.637295 ] } },
+{ "type": "Feature", "properties": { "id": "bf090b87", "name": "bf090b87", "date": "4/28/2026", "time": "12:32:45", "city": "3 Meta", "street": "Vico I Scarpati", "picture": "Positions_Images/bf090b87.Picture.103305.jpg", "description": "ID: bf090b87\nDate: 4/28/2026\nTime: 12:32:45\nCity: 3 Meta\nStreet: Vico I Scarpati\nPicture: Positions_Images/bf090b87.Picture.103305.jpg" }, "geometry": { "type": "Point", "coordinates": [ 14.413239, 40.644619 ] } },
+{ "type": "Feature", "properties": { "id": "64705bae", "name": "64705bae", "date": "4/28/2026", "time": "12:49:44", "city": "3 Meta", "street": "via Gradoni dei Pescatori", "picture": "Positions_Images/64705bae.Picture.105007.jpg", "description": "ID: 64705bae\nDate: 4/28/2026\nTime: 12:49:44\nCity: 3 Meta\nStreet: via Gradoni dei Pescatori\nPicture: Positions_Images/64705bae.Picture.105007.jpg" }, "geometry": { "type": "Point", "coordinates": [ 14.40753, 40.646105 ] } },
+{ "type": "Feature", "properties": { "id": "9ca292ee", "name": "9ca292ee", "date": "4/28/2026", "time": "13:38:36", "city": "3 Meta", "street": "via Casa Astarita", "picture": "Positions_Images/9ca292ee.Picture.113858.jpg", "description": "ID: 9ca292ee\nDate: 4/28/2026\nTime: 13:38:36\nCity: 3 Meta\nStreet: via Casa Astarita\nPicture: Positions_Images/9ca292ee.Picture.113858.jpg" }, "geometry": { "type": "Point", "coordinates": [ 14.42396, 40.634517 ] } }
+]
+}
